@@ -1,0 +1,25 @@
+{
+  "AVAILABILITY_ZONES": [
+    "1",
+    "2",
+    "3"
+  ],
+  "AVAILABILITY_ZONES_SECONDARY": [
+    "1",
+    "2",
+    "3"
+  ],
+  "CONNECTIVITY_RESOURCE_GROUP": "rg-nlsdev-alz-connectivity",
+  "CONNECTIVITY_SUBSCRIPTION_ID": "",
+  "IDENTITY_SUBSCRIPTION_ID": "",
+  "LOCATION": "swedencentral",
+  "LOGGING_RESOURCE_GROUP": "rg-nlsdev-alz-logging",
+  "MANAGEMENT_SUBSCRIPTION_ID": "",
+  "NETWORK_TYPE": "none",
+  "MANAGEMENT_GROUP_ID": "nlsdev-alz",
+  "PREFIX": "nlsdev-alz",
+  "RELEASE_VERSION": "v0.23.2",
+  "ROOT_PARENT_MANAGEMENT_GROUP_ID": "",
+  "SECONDARYLOCATION": "westeurope",
+  "SECURITY_SUBSCRIPTION_ID": ""
+}
